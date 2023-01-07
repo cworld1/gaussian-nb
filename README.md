@@ -180,7 +180,14 @@ def main():
 
 ### Effect show
 
-ACC 0.942, running time 22 milliseconds.
+ACC 0.942, running time 11 milliseconds.
+
+```Bash
+python -u "d:\Project\Python-Project\Gaussian-NB\main.py"
+#> Tesing the performance of Gaussian NaiveBayes...
+#> Accuracy is 0.942
+#> Total run time is 11.2 ms
+```
 
 ## Summary
 
