@@ -13,9 +13,9 @@ import sys
 
 sys.path.append(os.path.abspath("."))
 
-from utils.gaussian_nb import GaussianNB, load_data
+from utils.gaussian_nb import GaussianNB
 from utils.model_selection import train_test_split, _get_acc
-from utils.utils import run_time
+from utils.utils import run_time, load_data
 
 
 @run_time
